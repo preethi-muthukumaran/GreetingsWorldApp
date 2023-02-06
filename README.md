@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/uLpnXCe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/6TcKapb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-If this GIF is not loading, please copy and paste the following link your browser tab: https://imgur.com/gallery/uLpnXCe
+If this GIF is not loading, please copy and paste the following link your browser tab: https://imgur.com/a/6TcKapb.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 
