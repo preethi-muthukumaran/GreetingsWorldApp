@@ -24,7 +24,10 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/gallery/uLpnXCe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+If this GIF is not loading, please copy and paste the following link your browser tab: https://imgur.com/gallery/uLpnXCe
+
 <!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
